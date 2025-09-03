@@ -20,7 +20,6 @@ export default defineConfig({
           { text: '什么是 Sinan 司南?', link: '/guide/what-is-sinan' },
           { text: '快速开始', link: '/guide/getting-started' },
           { text: '部署', link: '/guide/deployment' },
-          { text: '更新日志', link: '/guide/changelog' }
         ]
       },
       {
