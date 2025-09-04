@@ -7,7 +7,7 @@ hero:
   text: "现代化的书签管理系统"
   tagline: "将书签同步至多个浏览器,只需收藏一次"
   image:
-    src: /logo.png
+    src: /static/logo-1024x1024.png
     alt: "Sinan 司南"
   actions:
     - theme: brand
