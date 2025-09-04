@@ -36,24 +36,18 @@ export default defineConfig({
       {
         text: '插件',
         items: [
-          { text: 'Chrome插件', link: '/guide/chrome-extension' },
-          { text: 'Edge插件', link: '/guide/edge-extension' },
-          { text: 'Alfred插件', link: '/guide/alfred-extension' },
-        ]
-      },
-      {
-        text: '开发',
-        items: [
-          { text: 'API 文档', link: '/guide/api-docs' },
-          { text: '贡献指南', link: '/guide/contributing' }
+          { text: 'Chrome插件', link: '/extension/chrome-extension' },
+          { text: 'Edge插件', link: '/extension/edge-extension' },
+          { text: 'Alfred插件', link: '/extension/alfred-extension' },
         ]
       },
       {
         text: '其他',
         items: [
-          {text : '各类浏览器书签导出操作', link: '/guide/bookmark-import-export'},
           { text: '隐私政策', link: '/guide/privacy-policy' },
-          { text: '服务条款', link: '/guide/terms-of-service' }
+          { text: '服务条款', link: '/guide/terms-of-service' },
+          { text: '免责声明', link: '/guide/disclaimer' },
+          { text: '开源许可证', link: '/guide/open-source-license' }
         ]
       },
       {
@@ -69,7 +63,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/PeixyJ/sinan-quick-start' }
     ]
   }
 })
