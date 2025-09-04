@@ -13,6 +13,7 @@ export default defineConfig({
     logo: 'logo-64x64.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
+      { text: '登录', link: 'https://sinan.host' },
       { text: '指南', link: '/guide/what-is-sinan' },
       { text: '快速开始', link: '/guide/getting-started' },
       { text: 'GitHub', link: '/githubs' }

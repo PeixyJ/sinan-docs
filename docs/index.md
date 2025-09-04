@@ -14,6 +14,9 @@ hero:
       text: 什么是 Sinan 司南
       link: /guide/what-is-sinan
     - theme: alt
+      text: 直接使用
+      link: https://sinan.host
+    - theme: alt
       text: 快速开始
       link: /guide/getting-started
     - theme: alt
