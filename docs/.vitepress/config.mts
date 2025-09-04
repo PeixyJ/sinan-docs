@@ -7,10 +7,10 @@ export default defineConfig({
   outDir: '../dist',
   base: '/docs/',
   head: [
-    ['link', { rel: 'icon', href: '/logo-64x64.png' }]
+    ['link', { rel: 'icon', href: 'logo-64x64.png' }]
   ],
   themeConfig: {
-    logo: '/logo-64x64.png',
+    logo: 'logo-64x64.png',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '指南', link: '/guide/what-is-sinan' },
