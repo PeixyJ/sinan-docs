@@ -41,7 +41,7 @@ docker-compose ps
 
 ### 服务访问
 
-- **前端应用**: http://localhost
-- **后端API**: http://localhost:8080
-- **MySQL数据库**: localhost:3306
-- **Redis**: localhost:6379
+- **前端应用**: `http://localhost`
+- **后端API**: `http://localhost:8080`
+- **MySQL数据库**: `localhost:3306`
+- **Redis**: `localhost:6379`
