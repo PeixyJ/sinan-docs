@@ -5,6 +5,10 @@ export default defineConfig({
   title: "Sinan 司南",
   description: "Sinan 司南是一个基于 Spring Boot 3 开发的现代化书签管理系统后端服务，提供完整的书签收藏、分类、标签管理和分享功能。",
   outDir: '../dist',
+  base: '/docs/',
+  head: [
+    ['link', { rel: 'icon', href: '/logo.png' }]
+  ],
   themeConfig: {
     logo: '/logo.png',
     // https://vitepress.dev/reference/default-theme-config
