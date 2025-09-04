@@ -47,7 +47,10 @@ export default defineConfig({
           { text: '隐私政策', link: '/guide/privacy-policy' },
           { text: '服务条款', link: '/guide/terms-of-service' },
           { text: '免责声明', link: '/guide/disclaimer' },
-          { text: '开源许可证', link: '/guide/open-source-license' }
+          { text: '开源许可证', link: '/guide/open-source-license' },
+          { text: '更新日志', link: '/guide/changelog' },
+          { text: '联系我', link: '/guide/contact' },
+          { text: '咖啡', link: '/guide/coffee' }
         ]
       },
       {
