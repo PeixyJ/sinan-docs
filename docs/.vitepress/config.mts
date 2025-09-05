@@ -55,6 +55,7 @@ export default defineConfig({
           { text: '免责声明', link: '/guide/disclaimer' },
           { text: '开源许可证', link: '/guide/open-source-license' },
           { text: '更新日志', link: '/guide/changelog' },
+          { text: '开发更新规范', link: '/guide/contribution-guidelines' },
           { text: '联系我', link: '/guide/contact' },
           { text: '咖啡', link: '/guide/coffee' }
         ]

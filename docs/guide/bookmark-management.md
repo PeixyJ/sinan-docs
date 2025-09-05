@@ -12,7 +12,27 @@
 
 ## 编辑书签
 
-找到想要编辑的书签，点击“编辑”按钮，修改书签信息，点击确定即可保存修改。
+找到想要编辑的书签，点击"编辑"按钮，修改书签信息，点击确定即可保存修改。
+
+### 编辑书签图标
+
+在编辑书签时，你可以自定义书签的图标，支持两种格式：
+
+1. **Base64 格式**：将图片转换为 Base64 编码后粘贴到图标输入框中
+   ```
+   data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNkYPhfDwAChwGA60e6kgAAAABJRU5ErkJggg==
+   ```
+
+2. **图片链接**：直接输入图片的 HTTPS 网址
+   ```
+   https://view.ciallo.xin/n/2025/08/16/68a06fe460742.png
+   ```
+
+> **提示**：
+> - 建议使用正方形图片作为书签图标，显示效果更佳
+> - 图片大小建议控制在 32x32 或 64x64 像素
+> - 支持 PNG、JPG、GIF 等常见图片格式
+> - 如果不设置图标，系统会自动获取网站的 favicon 作为默认图标
 
 ![alt text](<../static/CleanShot 2025-09-04 at 09.44.40.png>)
 
