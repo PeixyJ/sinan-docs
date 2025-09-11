@@ -45,6 +45,7 @@ export default defineConfig({
           { text: 'Chrome插件', link: '/extension/chrome-extension' },
           { text: 'Edge插件', link: '/extension/edge-extension' },
           { text: 'Alfred插件', link: '/extension/alfred-extension' },
+          { text: 'Safari插件', link: '/extension/safari-extension' },
         ]
       },
       {
@@ -55,6 +56,7 @@ export default defineConfig({
           { text: '免责声明', link: '/guide/disclaimer' },
           { text: '开源许可证', link: '/guide/open-source-license' },
           { text: '更新日志', link: '/guide/changelog' },
+          { text: '推广文章', link: '/guide/promotional-article' },
           { text: '开发更新规范', link: '/guide/contribution-guidelines' },
           { text: '联系我', link: '/guide/contact' },
           { text: '咖啡', link: '/guide/coffee' }
@@ -68,6 +70,7 @@ export default defineConfig({
           { text: 'sinan-server', link: 'https://github.com/PeixyJ/sinan-server' },
           { text: 'sinan-chrome-extension', link: 'https://github.com/PeixyJ/sinan-chrome-extension-v2' },
           { text: 'sinan-alfred-extension', link: 'https://github.com/PeixyJ/sinan-alfred-extension' },
+          { text: 'sinan-safari-extension', link: 'https://github.com/PeixyJ/sinan-safari-extension' },
           { text: 'sinan-docs', link: 'https://github.com/PeixyJ/sinan-docs' }
         ]
       }
