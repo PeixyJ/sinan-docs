@@ -15,7 +15,8 @@ export default defineConfig({
       { text: '登录', link: 'https://sinan.host' },
       { text: '指南', link: '/guide/what-is-sinan' },
       { text: '快速开始', link: '/guide/getting-started' },
-      { text: 'GitHub', link: '/githubs' }
+      { text: 'GitHub', link: '/githubs' },
+      { text: '反馈需求', link: '/guide/contact' }
     ],
 
     sidebar: [
