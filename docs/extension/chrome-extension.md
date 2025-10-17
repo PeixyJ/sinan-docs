@@ -13,7 +13,13 @@ Sinan Chrome 插件提供了便捷的书签管理功能，用户可以通过插�
 
 ## 商店安装
 
-审核中
+1. 打开 Chrome 浏览器，进入 [Chrome 网上应用店](https://chrome.google.com/webstore/category/extensions)
+2. 在搜索栏输入 "Sinan" 并搜索
+3. 找到 Sinan 插件，点击“添加至 Chrome”按钮
+4. 在弹出的对话框中，点击“添加扩展程序”按钮
+5. 安装完成后，插件图标会出现在浏览器的工具栏中
+
+![alt text](<CleanShot 2025-10-17 at 13.25.11@2x.png>)
 
 ## 手动安装插件
 
